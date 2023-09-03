@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ritwik Shivam
+Skills: Python, OOPS, HTML, CSS, JavaScript, GitHub
+Email: ritwikshivam64@gmail.com
+{{/user}}
